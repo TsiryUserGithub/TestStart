@@ -1,0 +1,62 @@
+/* 
+Ecrit par tsiresy 
+    Fichier de style du fichier : index.html
+*/
+/* ***** header */
+/* nav */
+body {
+    background-color: gainsboro;
+    margin: 0px;
+}
+
+#nav-menu {
+    background-color: cadetblue;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+
+#nav-menu ul {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+#nav-menu ul li {
+    list-style: none;
+    margin: 0px 20px;
+}
+
+/* ******* main */
+main {
+    height: 600px;
+}
+
+/* ***** footer */
+footer {
+    border-top: 1px solid slategray;
+    /* align-content: center; */
+    text-align: center;
+}
+
+/* footer-info */
+.footer-info {
+    background-color: rgb(171, 226, 228);
+    height: 100px;
+    align-content: center;
+}
+
+/* footer-copyright */
+.footer-copyright {
+    background-color: cadetblue;
+    color: white;
+}
+
+.footer-copyright p {
+    margin: 0px;
+    padding: 0px;
+    height: 40px;
+    /* text-align: center; */
+    align-content: center;
+}

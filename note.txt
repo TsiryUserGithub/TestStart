@@ -1,0 +1,14 @@
+/* Auteur tsiresy */
+* Note sur les fichiers:
+1- Trois fichiers pour s'entrainner
+2- Nommer comme dans le fichier index.html les: id, class, name
+
+* Nome des fichier:
+-index.html (auteur : tsiresy)
+-detail.html (auteur : mahefa)
+-equipe.html (auteur : tahiana)
+
+* Les fichiers:
+-index.html : les informations nécessaire sur le développement
+-detail.html : détailler les informations nécessaire aux développement web
+-equipe.html : un petit descriptif des membres et des taches
